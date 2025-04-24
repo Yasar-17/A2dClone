@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Copperplate');
+
+
+.a2dlogo{
+    width:270px;
+    height:auto;   
+ }
+ 
+ .motto{
+     width:100%;
+     background-color:#0F172B;
+      
+ }
+ .into{
+     margin-top: 50px;
+     margin-bottom: 50px;
+ }
+ .overlay-image {
+     position: absolute;
+     top: 40%;
+     left: 20%;
+     transform: translate(-50%, -50%);
+     width: 250px;
+     height: 150px;
+     border-radius: 50%;
+     background: rgba(255, 166, 0, 0.8);
+     filter: blur(75px);
+ }
+ .overlay-image2 {
+     position: absolute;
+     top: 70%;
+     left: 80%;
+     transform: translate(-50%, -50%);
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     background: rgba(255, 166, 0, 0.8);
+     filter: blur(75px);
+ }
+ 
+ .introduction{
+     font-weight:800;
+     font-size: 70px;
+ }
+ 
+ .content{
+      font-size: 25px;
+ }
+ 
+ .dawning-of-a-new-day-regular{
+     font-family:dawning of a new day, cursive;
+     font-weight:400;
+     font-style: normal;
+     color: #FEA116;
+ }
+ 
+ .video{
+      height:520px;
+      width:520px;
+      margin-left:150px;
+ }
+ 
+ .supporthead{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size:40px;
+ }
+ .supportbutton{
+     font-size: larger;
+     width:200px;
+     border-radius: 0px;
+     height:50px
+ }
+ 
+ .supportsvg{
+     width: 18px;
+     height: auto;
+     margin-left: 0px;
+ }
+ 
+ .supportimage{
+     margin-top: 100px;
+     margin-bottom:100px;
+     width:500px;
+     height: auto;
+ }
+ 
+ .supporttext{
+     font-size: large;
+ }
+ .svg{
+     width:30px;
+ }
+ 
+ .spacebetween{
+     width:100%;
+     height:50px;
+ }
+ .vgs{
+     padding:0px;
+     margin-bottom: 1px;
+     
+ }
+ .strips{
+     width:60px;
+     height:20px;
+     margin-left:6px;
+ }
+ 
+ .socialmediaicon{
+    fill:white;
+ }
+ 
+ .headings{
+     margin-top: 100px;
+ }
+ 
+ .fonts{
+    font-size: 17px;
+ }
+ 
+ .lastline{
+     margin-bottom: 75px;
+ }
+ 
+ .top-box{
+    background-color: white; /* Default button color */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius:20px;
+    border-style:none;
+    width:300px;
+    height:147px;
+    color:#6c757d;
+  }
+  
+.top-box:hover {
+    background-color:#E4A025; /* Color when hovering */
+    color:white;
+    .highlight-line-box{
+        color:white
+      }
+  }
+.line-box{
+    
+    font-size:15px;
+  }
+.highlight-line-box{
+    color:#ffa600;
+    font-family:"Nunito", sans-serif;
+    font-weight:900;
+    font-size:25px;
+    
+}
+  
+.how-things-work-section{
+    background-color:#F1F8FF;
+}
+.a2d_pc_factory_heading{
+
+  font-size:25px; 
+  font-family:"poppins",cursive;
+  
+}
+.how_things_work_heading{
+    
+    font-family:"Nunito", sans-serif;
+    font-weight:800;
+    font-size:30px;
+}
+.image-box{
+  background-color: white; /* Default button color */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius:20px;
+  border-style:none;
+  width:570px;
+  height:320px;
+  color:#6c757d;
+  
+}
+
+.image-box:hover {
+  background-color:#E4A025; /* Color when hovering */
+  color:white;
+}
+.image1{
+  height:256;
+  width:266;
+  margin-top:30px;
+  
+}
+.image-description-box{
+  background-color: transparent; 
+  padding: 10px 20px;
+  border: none;
+  width:750px;
+  color:#6c757d;
+}
+.para{
+  width:560px;
+  font-size:17px;
+
+} 
+.iconcircle{
+    background-color:black;
+    border-color:white;
+    border-width:1px;
+    border-style:solid;
+    height:7vh;
+    width:7vh;
+    border-radius:80px;
+    text-align:center;
+    
+    
+}
+.iconcircle:hover{
+    background-color: rgb(255, 255, 255);
+    .socialmediaicon{
+        fill:black;
+     }
+}
+.iconbox{
+   height:7vh;
+    width:7vh; 
+    padding:15px;
+    padding-top:10px;
+    
+    
+}
